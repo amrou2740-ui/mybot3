@@ -1,7 +1,7 @@
 import os
 
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "PUT_TOKEN")
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "PUT_KEY")
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "8552995589:AAHpHGOcNqUXQgP7AqJ-eVaMpBZY42kbrzs")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "AIzaSyB23qfAJzUYlebRDxGAIs64d9sirmbcO5E")
 
 GEMINI_MODEL = "gemini-2.5-flash"
 
